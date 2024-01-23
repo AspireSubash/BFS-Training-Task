@@ -1,0 +1,27 @@
+{
+    "AS_Form_a34bda7748774a58bb41d4201936becf": {
+        "id": "AS_Form_a34bda7748774a58bb41d4201936becf",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "LoginForm",
+            "type": "forms",
+            "platform": "",
+            "KUID": "i7bb01ddb6a54c8db1e61bcb705a7182"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__f846179b45a5494ea8ae17e1a0a5fc5c",
+            "type": "INVOKE_FUNCTION",
+            "display": "<>",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "AS_TextField_e7d66de076204b6e923a675cc310b37a": {
+        "id": "AS_TextField_e7d66de076204b6e923a675cc310b37a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "contextObj": {
+            "name": "userwidgetmodel",
+            "type": "userwidgets",
+            "KUID": "u66a6c849a8f4f69a16cef778447a5b7"
+        },
+        "language": "js",
+        "actions": []
+    }
+}

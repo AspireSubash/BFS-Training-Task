@@ -1,0 +1,28 @@
+{
+    "AS_Form_d2c8e7aac7904f44908b2eacf37011db": {
+        "id": "AS_Form_d2c8e7aac7904f44908b2eacf37011db",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "SiginUpForm",
+            "type": "forms",
+            "platform": "",
+            "KUID": "cbb6ed641e124435a5a787529f8df0ab"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ebcd8202598c47ceb1ee8824f2bdabc0",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "preshow",
+            "display": "preshow",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

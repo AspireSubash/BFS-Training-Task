@@ -1,0 +1,75 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_bottom_": {
+        "type": "string",
+        "value": "5dp"
+    },
+    "_height_": {
+        "type": "string",
+        "value": "25dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": ""
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "77dp"
+    },
+    "_skin_": "se49318779e640b7aa85acc1da73f27e",
+    "_text_": "Can't Login?",
+    "_top_": {
+        "type": "string",
+        "value": "-22dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "85dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "desktopweb": {
+        "psp": {
+            "hoverSkin": "s9a54c7cee2441928231ffee906dcbe7"
+        }
+    },
+    "disabledSkins": {},
+    "displaytext": true,
+    "focusskin": "s9a54c7cee2441928231ffee906dcbe7",
+    "id": "btnCantLogin",
+    "info": null,
+    "iphone": {
+        "left": {
+            "type": "string",
+            "value": "72%"
+        }
+    },
+    "isvisible": true,
+    "kuid": "u3d4bbcbcfc044069ed5c62d73c0c962",
+    "masterType": 1,
+    "name": "kony.ui.Button",
+    "parent": "flxLoginWrapper",
+    "pf": "userwidgetmodel",
+    "spaan": {
+        "width": {
+            "type": "string",
+            "value": "90dp"
+        }
+    },
+    "wType": "Button",
+    "zindex": 1
+}

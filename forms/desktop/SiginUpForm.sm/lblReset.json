@@ -1,0 +1,61 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "40%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "20%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "scb3fb12e8ce4e47b3429f940aa21b17",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "20%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "25%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s6cf5ad5292547ab85bc65d8db287e80",
+    "id": "lblReset",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "j293e9378dc34d16a4a76ec186fad7f5",
+    "name": "kony.ui.Button",
+    "parent": "flxButtton",
+    "pf": "SiginUpForm",
+    "responsiveData": {
+        "b2": {},
+        "b3": {
+            "width": {
+                "type": "string",
+                "value": "30%"
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "texti18n": "i18n.Reset.text",
+    "wType": "Button",
+    "zindex": 1
+}
