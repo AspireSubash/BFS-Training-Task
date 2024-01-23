@@ -15,6 +15,11 @@
         0
     ],
     "_percent_": true,
+    "_pxMenuIndex": [
+        2,
+        1,
+        2
+    ],
     "_skin_": "s1c0fa22e7434ab6ab6a050f51b8ad52",
     "_title_": null,
     "addWidgetsdone": false,
@@ -62,7 +67,7 @@
     "displayorientation": 1,
     "enabledforidletimeout": false,
     "id": "Profile",
-    "ide_init": "AS_Form_ef022eaa492e435a87e03005b8131f06",
+    "ide_postShow": "AS_Form_jf4c1278a47c4ea68284a2536776bb48",
     "info": null,
     "initdone": false,
     "inputaccessoryviewtype": 4,

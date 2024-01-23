@@ -7,7 +7,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "0dp"
+        "value": "106dp"
     },
     "_margin_": [
         1,
@@ -25,7 +25,7 @@
     "_text_": "Label",
     "_top_": {
         "type": "string",
-        "value": "0dp"
+        "value": "18dp"
     },
     "_width_": {
         "type": "ref",
@@ -39,9 +39,10 @@
         }
     },
     "canUpdateUI": true,
+    "containerId": true,
     "containerweight": 100,
     "contentalignment": 4,
-    "id": "lblEmail",
+    "id": "lblProfile",
     "info": null,
     "ipad": {
         "psp": {
@@ -55,10 +56,10 @@
     },
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "c836b098491148ee907d0579740511df",
+    "kuid": "af44441f5eb34b9c99a048c26e803525",
     "name": "kony.ui.Label",
-    "parent": "flxEmail",
-    "pf": "Profile",
+    "parent": "FBox0a6a6e45065fb40",
+    "pf": "FBox0a6a6e45065fb40",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "tooltip": "",

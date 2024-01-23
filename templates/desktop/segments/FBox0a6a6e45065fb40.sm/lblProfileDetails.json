@@ -7,7 +7,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "0dp"
+        "value": "312dp"
     },
     "_margin_": [
         1,
@@ -25,7 +25,7 @@
     "_text_": "Label",
     "_top_": {
         "type": "string",
-        "value": "0dp"
+        "value": "21dp"
     },
     "_width_": {
         "type": "ref",
@@ -39,9 +39,10 @@
         }
     },
     "canUpdateUI": true,
+    "containerId": true,
     "containerweight": 100,
     "contentalignment": 4,
-    "id": "lblPhone",
+    "id": "lblProfileDetails",
     "info": null,
     "ipad": {
         "psp": {
@@ -55,10 +56,10 @@
     },
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "e7cda193b7fd44f78899a69c737b5b78",
+    "kuid": "d70dda81852b4082910522310f31a585",
     "name": "kony.ui.Label",
-    "parent": "flxPhone",
-    "pf": "Profile",
+    "parent": "FBox0a6a6e45065fb40",
+    "pf": "FBox0a6a6e45065fb40",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "tooltip": "",

@@ -36,7 +36,7 @@
     "canUpdateUI": true,
     "children": [
         "flxImagaeContainer",
-        "flxDataContainer"
+        "SegProfile"
     ],
     "clipbounds": false,
     "containerweight": 100,

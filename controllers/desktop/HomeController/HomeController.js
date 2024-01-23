@@ -15,6 +15,7 @@ define({
   },
   postshow: function () {
     this.view.HeaderCop.lblProfile.onClick = this.profile.bind(this);
+    
   },
   profile: function () {
     alert('Profile');
