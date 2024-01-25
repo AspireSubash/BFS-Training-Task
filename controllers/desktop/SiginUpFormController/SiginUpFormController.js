@@ -1,4 +1,4 @@
-define({
+  define({
   preshow: function () {
     this.view.lblReset.onClick = this.reset.bind(this);
     this.view.lblSubmit.onClick = this.validate.bind(this);
@@ -55,7 +55,6 @@ define({
       phoneNumber: this.view.txtPhoneNumber.text,
       address: this.view.txtareaAddress.text,
     };
-
     navigater.navigate(data);
   },
 });

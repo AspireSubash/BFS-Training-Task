@@ -1,6 +1,8 @@
 define({
   data: '',
-  init() {
+
+  postshow: function () {
+    this.view.HeaderCop.lblProfile.onClick = this.profile.bind(this);
     try {
       this.data = {
         userName: this.navigationContext.userName,
@@ -12,10 +14,6 @@ define({
     } catch (e) {
       console.log(e);
     }
-  },
-  postshow: function () {
-    this.view.HeaderCop.lblProfile.onClick = this.profile.bind(this);
-    
   },
   profile: function () {
     alert('Profile');

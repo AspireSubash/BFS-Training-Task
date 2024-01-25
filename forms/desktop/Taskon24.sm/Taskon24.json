@@ -15,11 +15,6 @@
         0
     ],
     "_percent_": true,
-    "_pxMenuIndex": [
-        2,
-        1,
-        2
-    ],
     "_skin_": "s1c0fa22e7434ab6ab6a050f51b8ad52",
     "_title_": null,
     "addWidgetsdone": false,
@@ -50,13 +45,13 @@
     "canUpdateUI": true,
     "canvasWidth": 1200,
     "children": [
-        "flxMasterProfile"
+        "flxMain"
     ],
     "containerweight": 100,
     "controllerInfo": {
         "default": {
             "channel": "desktop",
-            "name": "ProfileController"
+            "name": "Taskon24Controller"
         }
     },
     "currentLocale": "default",
@@ -66,8 +61,9 @@
     "device": "desktopweb",
     "displayorientation": 1,
     "enabledforidletimeout": false,
-    "id": "Profile",
-    "ide_preShow": "AS_Form_a0e6c2e5eaaf46ad9d9e3cdc6769b9cb",
+    "id": "Taskon24",
+    "ide_init": "AS_Form_adab27bc96b74ee2a5480e6a6965ca8c",
+    "ide_preShow": "AS_Form_ifb349526d7e428790b0b1258bee6be9",
     "info": null,
     "initdone": false,
     "inputaccessoryviewtype": 4,
@@ -90,8 +86,8 @@
     "kiosk": {
         "needAppMenu": false
     },
-    "kuid": "aba525afcdce442faa32ea83ec96b313",
-    "layouttype": 4,
+    "kuid": "ca4a7f5c48204c6dbc26296bc2c9d444",
+    "layouttype": 2,
     "name": "kony.ui.Form2",
     "needappmenu": false,
     "paddinginpixel": false,

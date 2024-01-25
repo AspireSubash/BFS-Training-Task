@@ -1,0 +1,28 @@
+{
+    "AS_Form_ifb349526d7e428790b0b1258bee6be9": {
+        "id": "AS_Form_ifb349526d7e428790b0b1258bee6be9",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "Taskon24",
+            "type": "forms",
+            "platform": null,
+            "KUID": "ca4a7f5c48204c6dbc26296bc2c9d444"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__eb8c468011eb43e3bda8b15127dbdcc3",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "preshow",
+            "display": "preshow",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}
